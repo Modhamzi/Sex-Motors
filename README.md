@@ -1,1 +1,2 @@
 # Sex-Motors
+I put **3 DC motors** and connect them with a controller, and I connect **three servo motors**, each with its own starting point and rotation angle. I conecct all of them. At first, I set the pin numbers **2** and **10** to the value **HIGH**, then wait for three seconds and change the position, I put the starting values for the rotation of each of the servo motors and set the angle of rotation every 3 seconds, and when this period is over I return the motor to the first position.
